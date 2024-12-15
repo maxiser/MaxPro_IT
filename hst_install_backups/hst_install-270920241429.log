@@ -1,0 +1,15 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ca-certificates is already the newest version (20240203~22.04.1).
+curl is already the newest version (7.81.0-1ubuntu1.18).
+dirmngr is already the newest version (2.2.27-3ubuntu2.1).
+dirmngr set to manually installed.
+gnupg is already the newest version (2.2.27-3ubuntu2.1).
+gnupg set to manually installed.
+openssl is already the newest version (3.0.2-0ubuntu1.18).
+openssl set to manually installed.
+wget is already the newest version (1.21.2-2ubuntu1.1).
+software-properties-common is already the newest version (0.99.22.9).
+apt-transport-https is already the newest version (2.4.13).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
